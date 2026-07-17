@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stephenvonmonesit.github.io/attracted-to-redflags/sitemap.xml
